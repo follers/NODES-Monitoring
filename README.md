@@ -95,7 +95,3 @@ To create **Telegram bot**, add [@BotFather](https://telegram.me/BotFather) to T
 The configuration of node monitoring and notification channels is done at `https://{UI_ACCESS_IP}:8000`. For authorization we use `INSTALLER_USERNAME` and `INSTALLER_PASSWORD` which we specified in file `.env`. 
 
 After authorization, the monitoring wizard starts. All necessary actions are intuitive and commented in detail.
-
-
-
-Translated with www.DeepL.com/Translator (free version)
